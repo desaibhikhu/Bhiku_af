@@ -1984,13 +1984,11 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     
     elif query.data == "channels":
-        buttons = [[           
-            InlineKeyboardButton('⚜️ Movie Group ⚜️', url="https://t.me/movietrixbotrequest"),
-            InlineKeyboardButton('☔ Contact ☔', url="https://t.me/desaibhikhu")
+        buttons = [[
+            InlineKeyboardButton('👮 ᴜᴘᴅᴀᴛᴇ 👮', url="https://t.me/hdmovies4b"),
+            InlineKeyboardButton('⚜️ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ⚜️', url="https://t.me/movietrixbotrequest")
         ],[
-            InlineKeyboardButton('🔥 Movie Update Notification 🔥', url="https://t.me/af_cinemas"),
-            InlineKeyboardButton('👮 Update Channel 👮', url="https://t.me/af_cinemas")
-        ],[
+            InlineKeyboardButton('☔ ᴄᴏɴᴛᴀᴄᴛ ☔', url="https://t.me/desaibhikhu"),
             InlineKeyboardButton('⇍ ʙᴀᴄᴋ ⇏', callback_data='start')
         ]] 
         reply_markup = InlineKeyboardMarkup(buttons)
