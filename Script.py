@@ -9,8 +9,8 @@ class script(object):
 </b>"""
 
     ABOUT_TXT = """<b>╭────[ MY ᴅᴇᴛᴀɪʟꜱ ]────⍟
-├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/AF_mhakal'>AF Mhakal</a>
-├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/af_mhakal'>जय श्री राम</a> 
+├⍟ Mʏ Nᴀᴍᴇ : <a href='https://t.me/MovietrixBot'>𝓜𝓸𝓿𝓲𝓮𝓣𝓻𝓲𝔁 𝓑𝓸𝓽</a>
+├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/af_mhakal'> AF Mhakal</a> 
 ├⍟ Lɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
 ├⍟ Lᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 𝟹</a> 
 ├⍟ Dᴀᴛᴀʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -100,7 +100,7 @@ Nᴀᴍᴇ - {}
 
 📚 ʜᴇʀᴇ ᴀʀᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ ʟɪꜱᴛ ꜰᴏʀ ᴀʟʟ ʙᴏᴛ ᴜꜱᴇʀꜱ ⇊
     
-• /batch - ᴄʀᴇᴀᴛᴇ ᴀ ʙᴀᴛᴄʜ ʟɪɴᴋ ᴏғ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs.
+• /batch - ᴄʀᴇᴀᴛᴇ ᴀ ʙᴀᴛᴄʜ ʟɪɴᴋ ᴏғ ᴍᴜʟᴛɪᴘʟᴇ ғɪʟᴇs. 
 • /link - ᴄʀᴇᴀᴛᴇ ᴀ sɪɴɢʟᴇ ғɪʟᴇ sᴛᴏʀᴇ ʟɪɴᴋ.
 • /pbatch - ᴊᴜsᴛ ʟɪᴋᴇ <code>/batch</code>, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇs ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴs.
 • /plink - ᴊᴜsᴛ ʟɪᴋᴇ <code>/link</code>, ʙᴜᴛ ᴛʜᴇ ғɪʟᴇ ᴡɪʟʟ ʙᴇ sᴇɴᴅ ᴡɪᴛʜ ғᴏʀᴡᴀʀᴅ ʀᴇsᴛʀɪᴄᴛɪᴏɴ.
@@ -169,9 +169,9 @@ Nᴀᴍᴇ - {}
 
 <b>🎉 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑫𝒐𝒏𝒂𝒕𝒆 𝑴𝒆𝒕𝒉𝒐𝒅 👇</b>
 
-➢ QR Cᴏᴅᴇ : <a href='https://envs.sh/jfY.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
+➢ QR Cᴏᴅᴇ : <a href='https://envs.sh/Y9j.jpg'>𝑪𝑳𝑰𝑪𝑲 𝑯𝑬𝑹𝑬 𝑻𝑶 𝑺𝑪𝑨𝑵</a>
 
-➢ Uᴘɪ Iᴅ : <code>afmhakal08@ibl</code>
+➢ Uᴘɪ Iᴅ : <code>desaibhikhu3@ybl</code>
 
 ‼️ 𝑴𝒖𝒔𝒕 𝑺𝒆𝒏𝒅 𝑺𝒄𝒓𝒆𝒆𝒏𝒔𝒉𝒐𝒕 𝑨𝒇𝒕𝒆𝒓 𝑫𝒐𝒏𝒂𝒕𝒆.</b>"""
     
@@ -252,8 +252,8 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION =  """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}</b>
 
 <b> Size ⚙️: {file_size}
-○Jᴏɪɴ :<a href="https://t.me/AF_cinemas">Cʜᴀɴɴᴇʟ</a>
-○Mᴏᴠɪᴇ : :<a href="https://t.me/+swpuQspBoVxiNjdl">Gʀᴏᴜᴘ</a>
+○Jᴏɪɴ :<a href="https://t.me/hdmovies4b">Cʜᴀɴɴᴇʟ</a>
+○Mᴏᴠɪᴇ : :<a href="https://t.me/movietrixbotrequest">Gʀᴏᴜᴘ</a>
 </b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -410,7 +410,7 @@ BOT WORKING PROPERLY"""
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-💵 ᴜᴘɪ ɪᴅ - <code>afmhakal08@ibl</code>
+💵 ᴜᴘɪ ɪᴅ - <code>desaibhikhu3@ybl</code>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -418,7 +418,7 @@ BOT WORKING PROPERLY"""
     
  ᴘᴀʏ ᴀᴍᴍᴏᴜɴᴛ ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ʏᴏᴜʀ ᴘʟᴀɴ ᴀɴᴅ ᴇɴᴊᴏʏ ᴘʀᴇᴍɪᴜᴍ ᴍᴇᴍʙᴇʀꜱʜɪᴘ !
 
-📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/jfY.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
+📸 ǫʀ ᴄᴏᴅᴇ - <a href='https://envs.sh/Y9j.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a>
 
 ‼️ ᴍᴜsᴛ sᴇɴᴅ sᴄʀᴇᴇɴsʜᴏᴛ ᴀғᴛᴇʀ ᴘᴀʏᴍᴇɴᴛ.</b>"""
 
@@ -438,9 +438,9 @@ BOT WORKING PROPERLY"""
 
 𝑺𝒆𝒍𝒆𝒄𝒕 𝒀𝒐𝒖𝒓 𝑷𝒂𝒚𝒎𝒆𝒏𝒕 𝑴𝒆𝒕𝒉𝒐𝒅.....
 
-𝑼𝑷𝑰 𝑰𝑫 👉 <code>afmhakal08@ibl</code>
+𝑼𝑷𝑰 𝑰𝑫 👉 <code>desaibhikhu3@ybl</code>
 
-𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='https://envs.sh/jfY.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a> 
+𝑸𝑹 𝒄𝒐𝒅𝒆 👉 <a href='https://envs.sh/Y9j.jpg'>ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ꜱᴄᴀɴ</a> 
 
 𝑷𝒂𝒚 𝑨𝒎𝒐𝒖𝒏𝒕 𝑨𝒄𝒄𝒐𝒓𝒅𝒊𝒏𝒈 𝑻𝒐 𝒀𝒐𝒖𝒓 𝑷𝒍𝒂𝒏 & 𝑬𝒏𝒋𝒐𝒚 𝑷𝒓𝒆𝒎𝒊𝒖𝒎 𝑴𝒆𝒎𝒃𝒆𝒓𝒔𝒉𝒊𝒑
 
