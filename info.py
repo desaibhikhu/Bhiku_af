@@ -30,7 +30,7 @@ CODE = (environ.get('CODE', 'https://envs.sh/Y9j.jpg'))
 
 
 # Admins, Channels & Users
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '507206621 7170452349').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '507206621').split()]
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002493134784').split()] #Channel id for auto indexing ( make sure bot is admin )
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002327190146')) #Log channel id ( make sure bot is admin )
 DEENDAYAL_MOVIE_UPDATE_CHANNEL = int(environ.get('DEENDAYAL_MOVIE_UPDATE_CHANNEL', '0')) #Notification of those who verify will be sent to your channel. Enter the ID of the channel you want to send notification to here.
@@ -61,14 +61,14 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/howto_open_short_link
 
 # Shortner 
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'krownlinks.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '4dbeb3373153a8396dd23d2e9da53c8f24f4b449')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantearn.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c4cc3688ab52fdec5651806e892cc314b5cb551d')
 TUTORIAL = environ.get('TUTORIAL', '') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
 #Channel & Group link 
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movietrixbotrequest')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/AF_Cinemas')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/hdmovies4b')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/desaibhikhu')
 
 
