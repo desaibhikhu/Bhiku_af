@@ -60,9 +60,9 @@ DEENDAYAL_VERIFIED_LOG = int(environ.get('DEENDAYAL_VERIFIED_LOG', '-10025027684
 HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/howto_open_short_link/12') # How to open tutorial link for verification
 
 # Shortner 
-IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', '')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'c605be34bcdc02bfed6e64910437b40be91d5a95')
+IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'crlinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '1ea68af1ad95a30b7471582e6ce0c2ac90cc6ccf')
 TUTORIAL = environ.get('TUTORIAL', '') # Tutorial video link for opening shortlink website 
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
